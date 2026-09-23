@@ -1,0 +1,10 @@
+last_change = 2026-09-23T12:24:20.019089Z
+addr = 0xcb0260
+size = 0x1
+name = "IGameSystem_OnClientPreRender"
+
+[header]
+name = "IGameSystem_OnClientPreRender"
+addr = 0xcb0260
+
+[header.args]

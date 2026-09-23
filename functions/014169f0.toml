@@ -1,0 +1,10 @@
+last_change = 2026-09-23T12:24:20.019154Z
+addr = 0x14169f0
+size = 0x1a2
+name = "CSteamworksGameStats_OnReceivedSessionID"
+
+[header]
+name = "CSteamworksGameStats_OnReceivedSessionID"
+addr = 0x14169f0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-09-23T12:24:20.019341Z
+addr = 0x1759e90
+size = 0xbb
+name = "CLoopModeGame_OnClientFrameSimulate"
+
+[header]
+name = "CLoopModeGame_OnClientFrameSimulate"
+addr = 0x1759e90
+
+[header.args]

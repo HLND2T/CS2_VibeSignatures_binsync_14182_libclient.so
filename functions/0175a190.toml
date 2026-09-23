@@ -1,0 +1,10 @@
+last_change = 2026-09-23T12:24:20.019351Z
+addr = 0x175a190
+size = 0xbb
+name = "CLoopModeGame_OnFrameBoundary"
+
+[header]
+name = "CLoopModeGame_OnFrameBoundary"
+addr = 0x175a190
+
+[header.args]

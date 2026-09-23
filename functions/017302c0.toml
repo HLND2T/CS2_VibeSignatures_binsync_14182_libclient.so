@@ -1,0 +1,10 @@
+last_change = 2026-09-23T12:24:20.019173Z
+addr = 0x17302c0
+size = 0x27c
+name = "CNetworkGameClient_OnSource1Source1LegacyGameEvent"
+
+[header]
+name = "CNetworkGameClient_OnSource1Source1LegacyGameEvent"
+addr = 0x17302c0
+
+[header.args]

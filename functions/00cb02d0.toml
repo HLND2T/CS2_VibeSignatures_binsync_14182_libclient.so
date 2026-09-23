@@ -1,0 +1,10 @@
+last_change = 2026-09-23T12:24:20.019103Z
+addr = 0xcb02d0
+size = 0x1
+name = "IGameSystem_OnClientPostUpdate"
+
+[header]
+name = "IGameSystem_OnClientPostUpdate"
+addr = 0xcb02d0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-09-23T12:24:20.019408Z
+addr = 0x18fefc0
+size = 0x12b
+name = "CSource2Client_OnDisconnect"
+
+[header]
+name = "CSource2Client_OnDisconnect"
+addr = 0x18fefc0
+
+[header.args]

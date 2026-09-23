@@ -1,0 +1,10 @@
+last_change = 2026-09-23T12:24:20.019410Z
+addr = 0x195d5f0
+size = 0xc1
+name = "C_GameRules_ctor"
+
+[header]
+name = "C_GameRules_ctor"
+addr = 0x195d5f0
+
+[header.args]
